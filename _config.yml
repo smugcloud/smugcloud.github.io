@@ -1,0 +1,12 @@
+# Site settings
+title: Adventures in the Cloud
+description: > # this means to ignore newlines until "baseurl:"
+  Linux, distributed systems, Go
+baseurl: "" # the subpath of your site, e.g. /blog/
+permalink: /blog/:title
+url: "http://smugcloud.github.io" # the base hostname & protocol for your site
+twitter_username: smugcloud
+github_username:  smugcloud
+
+# Build settings
+markdown: kramdown
